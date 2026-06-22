@@ -1,0 +1,2 @@
+volume = 80
+sync_interval = 15
