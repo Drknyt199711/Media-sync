@@ -1,5 +1,5 @@
 {
-  "last_sync_timestamp": "2026-06-22 19:46:50",
+  "last_sync_timestamp": "2026-06-22 19:47:35",
   "target_repo_url": "https:\/\/github.com\/Drknyt199711\/Media-sync.git",
   "target_token": "REDACTED",
   "current_volume": 80,
@@ -7,7 +7,7 @@
   "playing_file": "None",
   "playback_status": "Missing loop file (please upload\/sync an .mp3 first)",
   "location_coordinates": "51.5074, -0.1278",
-  "last_sync": "2026-06-22T16:46:50Z",
+  "last_sync": "2026-06-22T16:47:35Z",
   "status": "Missing loop file (please upload\/sync an .mp3 first)",
   "sync_status": "Syncing...",
   "syncStatus": "Syncing...",
@@ -22,8 +22,8 @@
   "latitude": 51.5074,
   "longitude": -0.1278,
   "location_data": "51.5074, -0.1278",
-  "city_area": "Latitude: 51.507, Longitude: -0.128",
-  "location": "Latitude: 51.507, Longitude: -0.128",
-  "city": "Latitude: 51.507, Longitude: -0.128",
+  "city_area": "Greater London, United Kingdom",
+  "location": "Greater London, United Kingdom",
+  "city": "Greater London, United Kingdom",
   "ai_suggestion": ""
 }
