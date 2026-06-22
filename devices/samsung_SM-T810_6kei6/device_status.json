@@ -1,5 +1,5 @@
 {
-  "last_sync_timestamp": "2026-06-22 19:48:52",
+  "last_sync_timestamp": "2026-06-22 19:49:22",
   "target_repo_url": "https:\/\/github.com\/Drknyt199711\/Media-sync.git",
   "target_token": "REDACTED",
   "current_volume": 80,
@@ -7,7 +7,7 @@
   "playing_file": "None",
   "playback_status": "Missing loop file (please upload\/sync an .mp3 first)",
   "location_coordinates": "51.5074, -0.1278",
-  "last_sync": "2026-06-22T16:48:52Z",
+  "last_sync": "2026-06-22T16:49:22Z",
   "status": "Missing loop file (please upload\/sync an .mp3 first)",
   "sync_status": "Syncing...",
   "syncStatus": "Syncing...",
