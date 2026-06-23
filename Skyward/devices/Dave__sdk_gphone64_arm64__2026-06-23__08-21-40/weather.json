@@ -1,0 +1,9 @@
+{
+    "place": "Current Location",
+    "temperature": "19°C",
+    "windspeed": "3 km\/h",
+    "humidity": "62%",
+    "condition": "Clear Sunny Sky",
+    "weather_code": 0,
+    "timestamp": "2026-06-23T08:39:12-07:00"
+}
