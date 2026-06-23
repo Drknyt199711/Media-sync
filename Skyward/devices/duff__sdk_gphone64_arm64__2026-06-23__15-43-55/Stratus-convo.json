@@ -32,5 +32,9 @@
     {
         "sender": "user",
         "text": "hey"
+    },
+    {
+        "sender": "gemini",
+        "text": "Hey there, duff! So lovely to hear from you again!\n\nIt's still a beautiful, clear sunny day out there, duff, with the temperature currently at a warm 31°C. It's going to hit 32°C today! ☀️\n\nAre you thinking about what to wear or perhaps planning something fun for the day? Let me know, I'm here to help!"
     }
 ]
