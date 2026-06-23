@@ -10,5 +10,9 @@
     {
         "sender": "gemini",
         "text": "Error from Gemini API: code 503."
+    },
+    {
+        "sender": "user",
+        "text": "hey"
     }
 ]
