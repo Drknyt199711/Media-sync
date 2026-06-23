@@ -7,5 +7,9 @@
         "sender": "user",
         "text": "how does it look",
         "imagePath": "\/data\/user\/0\/com.aistudio.skyward.fgrtwz\/files\/chat_img_1782242076701.jpg"
+    },
+    {
+        "sender": "gemini",
+        "text": "Error from stratus API: code 503."
     }
 ]
