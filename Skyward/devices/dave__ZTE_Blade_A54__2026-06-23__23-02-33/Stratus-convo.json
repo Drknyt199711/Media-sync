@@ -2,5 +2,14 @@
     {
         "sender": "gemini",
         "text": "Hi there! I'm Stratus, your weather and clothing assistant. Ask me anything about clothing suggestions, current weather conditions, or outing recommendations!"
+    },
+    {
+        "sender": "user",
+        "text": "check the fit",
+        "imagePath": "\/data\/user\/0\/com.aistudio.skyward.fgrtwz\/files\/chat_img_1782244981611.jpg"
+    },
+    {
+        "sender": "gemini",
+        "text": "Error from stratus API: code 503."
     }
 ]
