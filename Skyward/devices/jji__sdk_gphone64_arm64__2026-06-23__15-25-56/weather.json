@@ -1,13 +1,13 @@
 {
-    "place": "Current Location",
-    "temperature": "32°C",
-    "windspeed": "16 km\/h",
-    "humidity": "62%",
+    "place": "Paris, France",
+    "temperature": "30°C",
+    "windspeed": "9 km\/h",
+    "humidity": "78%",
     "condition": "Clear Sunny Sky",
     "weather_code": 0,
-    "latitude": "39.22545",
-    "y": "39.22545",
-    "longitude": "-123.15425",
-    "x": "-123.15425",
-    "timestamp": "2026-06-23T15:25:57-07:00"
+    "latitude": "48.86",
+    "y": "48.86",
+    "longitude": "2.3399997",
+    "x": "2.3399997",
+    "timestamp": "2026-06-23T15:26:11-07:00"
 }
