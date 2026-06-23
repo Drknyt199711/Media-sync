@@ -6,5 +6,9 @@
     {
         "sender": "user",
         "text": "hey"
+    },
+    {
+        "sender": "gemini",
+        "text": "Error from Gemini API: code 503."
     }
 ]
