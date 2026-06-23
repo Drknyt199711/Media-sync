@@ -36,5 +36,10 @@
     {
         "sender": "gemini",
         "text": "Hey there, duff! So lovely to hear from you again!\n\nIt's still a beautiful, clear sunny day out there, duff, with the temperature currently at a warm 31°C. It's going to hit 32°C today! ☀️\n\nAre you thinking about what to wear or perhaps planning something fun for the day? Let me know, I'm here to help!"
+    },
+    {
+        "sender": "user",
+        "text": "Review my clothing choice and rate it against the weather today, adding any suggestions if you have them.",
+        "imagePath": "\/data\/user\/0\/com.aistudio.skyward.fgrtwz\/files\/chat_img_1782256393789.jpg"
     }
 ]
