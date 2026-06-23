@@ -10,5 +10,9 @@
     {
         "sender": "gemini",
         "text": "Unable to get advice right now: timeout"
+    },
+    {
+        "sender": "user",
+        "text": "hey"
     }
 ]
