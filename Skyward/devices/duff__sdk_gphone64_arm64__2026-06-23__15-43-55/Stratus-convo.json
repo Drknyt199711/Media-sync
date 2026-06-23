@@ -24,5 +24,9 @@
         "sender": "user",
         "text": "Review my clothing choice and rate it against the weather today, adding any suggestions if you have them.",
         "imagePath": "\/data\/user\/0\/com.aistudio.skyward.fgrtwz\/files\/chat_img_1782255631276.jpg"
+    },
+    {
+        "sender": "gemini",
+        "text": "Unable to get advice right now: Model gemini-flash-latest returned code 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
     }
 ]
