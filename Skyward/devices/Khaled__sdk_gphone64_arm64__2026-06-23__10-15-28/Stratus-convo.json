@@ -18,5 +18,14 @@
     {
         "sender": "gemini",
         "text": "Unable to get advice right now: timeout"
+    },
+    {
+        "sender": "user",
+        "text": "rate the fit",
+        "imagePath": "\/data\/user\/0\/com.aistudio.skyward.fgrtwz\/files\/chat_img_1782237758679.jpg"
+    },
+    {
+        "sender": "gemini",
+        "text": "Error from stratus API: code 503."
     }
 ]
