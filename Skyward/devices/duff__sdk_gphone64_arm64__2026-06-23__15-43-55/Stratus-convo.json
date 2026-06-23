@@ -10,5 +10,10 @@
     {
         "sender": "gemini",
         "text": "Hey there, duff! So lovely to see you. \n\nIt is absolutely gorgeous but quite warm out there today—we're at a sunny 32°C! ☀️ \n\nSince it’s a bit of a scorcher, I’d highly recommend opting for breathable, lightweight clothing to stay cool. A loose cotton tee, some linen shorts, or a breezy sundress would be perfect. And definitely grab your favorite sunglasses and some sunscreen before you head out!\n\nHow are you planning to spend this beautiful day? Let me know if you need help picking out an outfit!"
+    },
+    {
+        "sender": "user",
+        "text": "Review my clothing choice and rate it against the weather today, adding any suggestions if you have them.",
+        "imagePath": "\/data\/user\/0\/com.aistudio.skyward.fgrtwz\/files\/chat_img_1782254862170.jpg"
     }
 ]
