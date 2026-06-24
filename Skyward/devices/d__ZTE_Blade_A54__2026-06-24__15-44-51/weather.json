@@ -1,7 +1,7 @@
 {
     "place": "Current Location",
-    "temperature": "20°C",
-    "windspeed": "4 km\/h",
+    "temperature": "21°C",
+    "windspeed": "2 km\/h",
     "humidity": "62%",
     "condition": "Light Rain Drizzle",
     "weather_code": 53,
@@ -9,5 +9,5 @@
     "y": "8.963093",
     "longitude": "38.738117",
     "x": "38.738117",
-    "timestamp": "2026-06-24T15:49:23+03:00"
+    "timestamp": "2026-06-24T15:50:32+03:00"
 }
