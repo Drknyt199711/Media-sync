@@ -1,13 +1,13 @@
 {
-    "place": "San Francisco (GPS NA)",
-    "temperature": "15°C",
-    "windspeed": "4 km\/h",
-    "humidity": "78%",
-    "condition": "Clear Sunny Sky",
-    "weather_code": 0,
-    "latitude": "40.710335",
-    "y": "40.710335",
-    "longitude": "-73.99308",
-    "x": "-73.99308",
-    "timestamp": "2026-06-24T12:22:02+03:00"
+    "place": "Current Location",
+    "temperature": "23°C",
+    "windspeed": "10 km\/h",
+    "humidity": "62%",
+    "condition": "Partly Cloudy",
+    "weather_code": 3,
+    "latitude": "8.963093",
+    "y": "8.963093",
+    "longitude": "38.738117",
+    "x": "38.738117",
+    "timestamp": "2026-06-24T12:58:32+03:00"
 }
