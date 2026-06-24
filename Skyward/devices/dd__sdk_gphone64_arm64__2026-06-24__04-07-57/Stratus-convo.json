@@ -65,5 +65,10 @@
     {
         "sender": "gemini",
         "text": "Hello dd! It looks like you have shared your favorite colorful pixel house with me again. Let us translate this cute green, brown, and purple palette into a wonderful real life outfit.\n\nFor today, the weather starts out at a cool 15 degrees Celsius but will warm up dramatically to a hot high of 33 degrees Celsius under a completely clear sunny sky.\n\nI would rate this outfit style an 8 out of 10. The colors are beautiful, but smart layering is absolutely essential to stay comfortable with such a massive temperature jump.\n\nHere are my cozy suggestions for you today, dd:\n\nFirst, start with a very light, breathable green t-shirt or tank top as your base. This will keep you cool and fresh when the heat peaks this afternoon.\n\nSecond, wear a light brown cardigan, shacket, or denim jacket over it. This gives you that cozy brown roof vibe for the chilly morning hours, but is easy to take off and carry later.\n\nThird, add a fun pop of purple with a baseball cap or a canvas bag. Since it is going to be so bright, a hat will protect you from the sun.\n\nLastly, do not forget your sunglasses and some sunscreen before you step out. Have a fantastic, sunny day!"
+    },
+    {
+        "sender": "user",
+        "text": "Review my clothing choice and rate it against the weather today, adding any suggestions if you have them.",
+        "imagePath": "\/data\/user\/0\/com.aistudio.skyward.fgrtwz\/files\/Skyward\/devices\/dd__sdk_gphone64_arm64__2026-06-24__04-07-57\/image\/img_2026-06-24_04-34-23_bedb06.jpg"
     }
 ]
