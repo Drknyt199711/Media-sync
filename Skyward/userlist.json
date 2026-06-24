@@ -31,5 +31,13 @@
         "devices": [
             "ZTE Blade A54"
         ]
+    },
+    {
+        "username": "dd",
+        "password": "qwertyui",
+        "fullName": "",
+        "devices": [
+            "ZTE Blade A54"
+        ]
     }
 ]
