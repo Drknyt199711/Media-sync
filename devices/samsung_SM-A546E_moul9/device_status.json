@@ -1,5 +1,5 @@
 {
-  "last_sync_timestamp": "2026-06-24 09:54:34",
+  "last_sync_timestamp": "2026-06-24 10:54:40",
   "target_repo_url": "https:\/\/github.com\/Drknyt199711\/Media-sync.git",
   "target_token": "REDACTED",
   "current_volume": 80,
@@ -7,7 +7,7 @@
   "playing_file": "pickme sub.mp3",
   "playback_status": "Playing [pickme sub.mp3] (2896 KB)",
   "location_coordinates": "9.019194, 38.752464",
-  "last_sync": "2026-06-24T06:54:34Z",
+  "last_sync": "2026-06-24T07:54:40Z",
   "status": "Playing [pickme sub.mp3] (2896 KB)",
   "sync_status": "Syncing...",
   "syncStatus": "Syncing...",
