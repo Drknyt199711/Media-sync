@@ -1,0 +1,4 @@
+User Name: dd
+Device Model: sdk_gphone64_arm64
+Sanitized Model: sdk_gphone64_arm64
+Installation Stamp: 2026-06-24__04-07-57
