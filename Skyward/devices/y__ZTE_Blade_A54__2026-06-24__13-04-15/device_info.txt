@@ -1,0 +1,4 @@
+User Name: y
+Device Model: ZTE Blade A54
+Sanitized Model: ZTE_Blade_A54
+Installation Stamp: 2026-06-24__13-04-15
