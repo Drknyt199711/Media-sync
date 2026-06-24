@@ -56,5 +56,10 @@
     {
         "sender": "gemini",
         "text": "Hello again, dd! I see our trusty little pixel-art house is back to guide our style choices today. 🏡✨\n\nWith the weather currently sitting at a crisp **16°C** and climbing to a sizzling high of **33°C** under a **Clear Sunny Sky**, we have a huge temperature jump ahead! \n\nIf we translate this color palette into a real-world outfit (green base, brown outer layer, and a pop of purple), here is how it rates for today:\n\n### ☀️ The Rating: 8\/10\nIt’s a gorgeous color combination, but smart layering is absolutely vital today to keep you comfortable from morning chill to afternoon heat!\n\n### Stratus's Cozy Suggestions for dd:\n*   **The Green Base:** Keep it super light and breathable! Go for a breezy green cotton t-shirt or linen top. You'll be so glad you did when that 33°C afternoon heat kicks in.\n*   **The Brown Layer:** A lightweight brown cardigan, denim jacket, or shacket represents the roof perfectly. It will keep you cozy in the 16°C morning air and is easy to tie around your waist or pack away later.\n*   **The Purple Accent:** Inject that fun purple door energy with a cool cap or some sunglasses. Since it's incredibly sunny today, a hat and some SPF are absolute must-haves!\n\nHave a beautiful, sun-drenched day, dd! Stay hydrated and enjoy the warmth!"
+    },
+    {
+        "sender": "user",
+        "text": "Review my clothing choice and rate it against the weather today, adding any suggestions if you have them.",
+        "imagePath": "\/data\/user\/0\/com.aistudio.skyward.fgrtwz\/files\/Skyward\/devices\/dd__sdk_gphone64_arm64__2026-06-24__04-07-57\/image\/img_2026-06-24_04-33-08_d48c74.jpg"
     }
 ]
