@@ -23,5 +23,9 @@
     {
         "sender": "user",
         "text": "what is this apps function "
+    },
+    {
+        "sender": "gemini",
+        "text": "As your cozy assistant, my main function is to help you dress comfortably, stylishly, and practically for whatever the weather throws your way, y! \n\nThink of me as your personal fashion and weather companion. Here is exactly what I can do for you:\n\n* **Outfit Reviews:** You can upload a photo of what you're wearing (just like you did!), and I'll let you know how well it suits the current temperature and forecast, complete with helpful styling tips.\n* **Weather-Based Clothing Advice:** Tell me where you are or what the weather is like, and I'll suggest the perfect layers, fabrics, and footwear to keep you comfortable.\n* **Daily Forecasts:** I keep track of the temperature and conditions (like today's drizzly 22°C) so you never get caught unprepared by sudden rain or cold snaps.\n* **Cozy Packing & Styling Tips:** Planning a trip or trying to style a specific item? I can help you put together the perfect look.\n\nUltimately, I'm here to make sure you step outside feeling confident, cozy, and ready for the day! Is there a particular weather query or outfit style you'd like to chat about next, y?"
     }
 ]
