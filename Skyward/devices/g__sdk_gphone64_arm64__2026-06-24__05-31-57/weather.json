@@ -1,0 +1,13 @@
+{
+    "place": "Current Location",
+    "temperature": "14°C",
+    "windspeed": "4 km\/h",
+    "humidity": "78%",
+    "condition": "Clear Sunny Sky",
+    "weather_code": 0,
+    "latitude": "39.22545",
+    "y": "39.22545",
+    "longitude": "-123.15425",
+    "x": "-123.15425",
+    "timestamp": "2026-06-24T05:31:57-07:00"
+}
