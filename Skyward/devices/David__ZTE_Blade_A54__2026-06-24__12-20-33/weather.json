@@ -1,5 +1,5 @@
 {
-    "place": "New York, United States",
+    "place": "San Francisco (GPS NA)",
     "temperature": "15°C",
     "windspeed": "4 km\/h",
     "humidity": "78%",
@@ -9,5 +9,5 @@
     "y": "40.710335",
     "longitude": "-73.99308",
     "x": "-73.99308",
-    "timestamp": "2026-06-24T12:21:08+03:00"
+    "timestamp": "2026-06-24T12:21:59+03:00"
 }
