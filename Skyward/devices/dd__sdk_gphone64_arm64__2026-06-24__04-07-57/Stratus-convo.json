@@ -74,5 +74,10 @@
     {
         "sender": "gemini",
         "text": "Hello again, dd! It is so lovely to see our favorite colorful pixel house back again today. Let us turn this charming green, brown, and purple color scheme into a fabulous real-world outfit for today.\n\nWith the weather starting at a cool 15 degrees Celsius and climbing all the way to a hot 33 degrees Celsius under a clear sunny sky, you have a massive temperature change to prepare for.\n\nI rate this outfit concept an 8 out of 10. The colors are incredibly cheerful, but smart layering is absolutely essential today to handle the midday heat.\n\nHere are my cozy tips for you, dd:\n\nFirst, for your base layer, choose a lightweight green cotton tee or a sleeveless top. This will keep you perfectly cool and comfortable once the afternoon heat hits that high of 33 degrees.\n\nSecond, layer a light brown unlined jacket, a breezy cardigan, or a button-down shirt over top. This cozy layer is perfect for the chilly 15 degree morning air, and you can easily take it off and carry it when the sun warms everything up.\n\nThird, bring in that fun purple door color as a stylish accent, like a purple cap, a canvas tote bag, or some fun socks. \n\nLastly, with a completely clear sunny sky all day, make sure to wear your sunglasses and apply plenty of sunscreen before heading out.\n\nHave a wonderful, sun-filled day, dd! Let me know if you decide to wear these colors out and about."
+    },
+    {
+        "sender": "user",
+        "text": "Review my clothing choice and rate it against the weather today, adding any suggestions if you have them.",
+        "imagePath": "\/data\/user\/0\/com.aistudio.skyward.fgrtwz\/files\/Skyward\/devices\/dd__sdk_gphone64_arm64__2026-06-24__04-07-57\/image\/img_2026-06-24_04-36-27_183981.jpg"
     }
 ]
