@@ -15,5 +15,13 @@
         "devices": [
             "SM-E045F"
         ]
+    },
+    {
+        "username": "fj",
+        "password": "qwertyui",
+        "fullName": "",
+        "devices": [
+            "sdk_gphone64_arm64"
+        ]
     }
 ]
