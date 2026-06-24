@@ -1,0 +1,11 @@
+[
+    {
+        "sender": "gemini",
+        "text": "Hi there! I'm Stratus, your weather and clothing assistant. Ask me anything about clothing suggestions, current weather conditions, or outing recommendations!"
+    },
+    {
+        "sender": "user",
+        "text": "Review my clothing choice and rate it against the weather today, adding any suggestions if you have them.",
+        "imagePath": "\/data\/user\/0\/com.aistudio.skyward.fgrtwz\/files\/Skyward\/devices\/Pending_Onboarding\/image\/img_2026-06-24_15-44-47_b6c1bc.jpg"
+    }
+]
