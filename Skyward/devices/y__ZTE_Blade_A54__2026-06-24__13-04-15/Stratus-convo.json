@@ -15,5 +15,9 @@
     {
         "sender": "user",
         "text": "what happens to the image"
+    },
+    {
+        "sender": "gemini",
+        "text": "Don't worry, y! Your image is completely safe. \n\nWhen you share a photo with me, it is only processed temporarily so I can see your wonderful outfit and give you the best clothing advice for the weather. It isn't saved, stored, or shared anywhere, and it disappears once our conversation is done. Your privacy is always protected!\n\nIf you meant the look of the photo itself, it did come through a little bit soft and blurry (likely due to the lighting or a quick lens smudge), but it was still clear enough for me to see your stylish layered look! \n\nLet me know if you have any other questions, y! I'm always here to help."
     }
 ]
