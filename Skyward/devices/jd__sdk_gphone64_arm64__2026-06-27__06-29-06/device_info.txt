@@ -1,0 +1,4 @@
+Full Name: jd
+Device Model: sdk_gphone64_arm64
+Installation Timestamp: 2026-06-27__06-29-06
+Android Version: 16 (SDK 36)
