@@ -1,0 +1,4 @@
+Full Name: j kaalid
+Device Model: sdk_gphone64_arm64
+Installation Timestamp: 2026-06-29__00-03-44
+Android Version: 16 (SDK 36)
