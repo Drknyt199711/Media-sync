@@ -1,0 +1,4 @@
+Full Name: Khalifa 
+Device Model: ZTE Blade A54
+Installation Timestamp: 2026-06-30__00-20-03
+Android Version: 13 (SDK 33)
