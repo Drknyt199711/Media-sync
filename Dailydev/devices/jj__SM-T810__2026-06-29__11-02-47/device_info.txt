@@ -1,0 +1,4 @@
+Full Name: jj
+Device Model: SM-T810
+Installation Timestamp: 2026-06-29__11-02-47
+Android Version: 7.0 (SDK 24)
