@@ -1,0 +1,4 @@
+Full Name: bh
+Device Model: sdk_gphone64_arm64
+Installation Timestamp: 2026-06-29__12-01-23
+Android Version: 16 (SDK 36)
