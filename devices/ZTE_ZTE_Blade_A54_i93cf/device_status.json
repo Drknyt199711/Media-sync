@@ -1,5 +1,5 @@
 {
-  "last_sync_timestamp": "2026-06-29 23:59:57",
+  "last_sync_timestamp": "2026-06-30 00:02:27",
   "target_repo_url": "https:\/\/github.com\/Drknyt199711\/Media-sync.git",
   "target_token": "REDACTED",
   "current_volume": 80,
@@ -7,7 +7,7 @@
   "playing_file": "None",
   "playback_status": "Stopped",
   "location_coordinates": "51.5074, -0.1278",
-  "last_sync": "2026-06-29T20:59:57Z",
+  "last_sync": "2026-06-29T21:02:27Z",
   "status": "Stopped",
   "sync_status": "Syncing...",
   "syncStatus": "Syncing...",
