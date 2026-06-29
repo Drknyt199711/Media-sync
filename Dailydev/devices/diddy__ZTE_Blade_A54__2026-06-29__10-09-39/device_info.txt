@@ -1,0 +1,4 @@
+Full Name: diddy
+Device Model: ZTE Blade A54
+Installation Timestamp: 2026-06-29__10-09-39
+Android Version: 13 (SDK 33)
