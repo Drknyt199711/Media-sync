@@ -1,0 +1,4 @@
+Full Name: I'm
+Device Model: sdk_gphone64_arm64
+Installation Timestamp: 2026-06-29__00-28-07
+Android Version: 16 (SDK 36)
