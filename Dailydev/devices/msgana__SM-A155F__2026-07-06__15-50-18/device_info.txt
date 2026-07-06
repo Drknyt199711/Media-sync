@@ -1,0 +1,4 @@
+Full Name: msgana
+Device Model: SM-A155F
+Installation Timestamp: 2026-07-06__15-50-18
+Android Version: 14 (SDK 34)
