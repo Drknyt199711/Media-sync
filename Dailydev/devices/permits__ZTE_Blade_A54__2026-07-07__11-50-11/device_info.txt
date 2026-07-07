@@ -1,0 +1,4 @@
+Full Name: permits
+Device Model: ZTE Blade A54
+Installation Timestamp: 2026-07-07__11-50-11
+Android Version: 13 (SDK 33)
