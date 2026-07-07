@@ -1,0 +1,4 @@
+Full Name: grandfather
+Device Model: SM-T810
+Installation Timestamp: 2026-07-07__12-27-11
+Android Version: 7.0 (SDK 24)
