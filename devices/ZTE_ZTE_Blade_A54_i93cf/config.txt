@@ -1,2 +1,2 @@
-volume = 80
+volume = 50
 sync_interval = 15
