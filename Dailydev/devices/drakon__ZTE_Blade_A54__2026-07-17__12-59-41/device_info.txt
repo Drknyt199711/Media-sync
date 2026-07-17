@@ -1,0 +1,4 @@
+Full Name: drakon
+Device Model: ZTE Blade A54
+Installation Timestamp: 2026-07-17__12-59-41
+Android Version: 13 (SDK 33)
